@@ -1,0 +1,1 @@
+from awuproject.settings import *

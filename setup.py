@@ -24,7 +24,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'awucontacts',
-        'awuimport',
+        'awufundraiser',
         'Django >= 1.2.3, < 1.3',
         'psycopg2',
     ],

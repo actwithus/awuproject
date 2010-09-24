@@ -65,7 +65,6 @@ INSTALLED_APPS = (
     # ActWithUs
     'awucontacts',
     'awufundraiser',
-    'awuimport',
 )
 
 TEMPLATE_LOADERS = (
